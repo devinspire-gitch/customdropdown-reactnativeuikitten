@@ -2,6 +2,7 @@
 
 ### customize metro.config.js file 
 
+```
  const MetroConfig = require('@ui-kitten/metro-config');
 
  const evaConfig = {
@@ -13,7 +14,11 @@
      // previous config
  });
 
+ ```
+
  ### added mapping.json file
+
+ ```
 
  {
     "components": {
@@ -69,3 +74,5 @@
       }
     }
   }
+
+  ```
